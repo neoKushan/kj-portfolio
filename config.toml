@@ -41,7 +41,7 @@ googleAnalytics = ""
 	# Hero section
 	[params.hero]
 		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
-		slogan     = "Your awesome slogan"
+		slogan     = "Katie Jarman"
 		subtitle   = "[Lorem](//google.com) ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis nesciunt consequatur ut nihil voluptatem fugiat eos eveniet alias in veniam?"
 		buttonText = "Find out more"
 
@@ -55,27 +55,27 @@ googleAnalytics = ""
 
 	# Service section
 	[params.services]
-		headline = "At your service"
+		headline = "A Creative"
 
         [[params.services.list]]
-            icon = "fa-diamond"
-            title = "Sturdy Templates"
-            description = "Our templates are updated regularly so they don't break."
+            icon = "fa-music"
+            title = "Poetry"
+            description = "Words that will melt your heart"
 
         [[params.services.list]]
-			icon = "fa-paper-plane"
-			title = "Ready to Ship"
-			description = "You can use this theme as is, or you can make changes!"
+			icon = "fa-theater-masks"
+			title = "Theatre"
+			description = "I'm not just big on musical theatre!"
 
 		[[params.services.list]]
-            icon = "fa-newspaper-o"
-            title = "Up to Date"
-            description = "We update dependencies to keep things fresh."
+            icon = "fa-laugh"
+            title = "Humour"
+            description = "You'll literally die laughing"
 
         [[params.services.list]]
             icon = "fa-heart"
-            title = "Made with Love"
-            description = "You have to make your websites with love these days!"
+            title = "Love"
+            description = "Damn good lovin'!"
 
 
     # Portfolio modals

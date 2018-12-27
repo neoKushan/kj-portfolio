@@ -21,10 +21,10 @@ theme = "airspace-hugo"
   #   weight = 4
   #   name = "Performances"
   #   url = "/performances"
-  [[menu.header]]
-    weight = 5
-    name = "Skills"
-    url = "/skills"
+  # [[menu.header]]
+  #   weight = 5
+  #   name = "Skills"
+  #   url = "/skills"
   [[menu.header]]
     weight = 6
     name = "Contact"
@@ -72,7 +72,7 @@ theme = "airspace-hugo"
     enable = true
     title = "About Me"
     italic = "If you don't love yourself, how in the hell you gonna love somebody else?"
-    paragraph = ""
+    paragraph = "Pansexual. Poetic. Fat. Femme."
 
   [params.blog]
     enable = true
@@ -81,8 +81,8 @@ theme = "airspace-hugo"
 
   [params.feature]
     enable = true
-    title = "We believe in great ideas"
-    content = "Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus."
+    title = "Need a creative?"
+    content = ""
     [params.feature.button]
       caption = "Get in touch"
       url = "mailto:katie@kjarman.com"

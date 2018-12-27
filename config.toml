@@ -1,107 +1,114 @@
-baseurl = "https://tender-brattain-636d2d.netlify.com"
+title = "Katie Jarman"
+baseURL = "https://www.kjarman.com"
 languageCode = "en-us"
-title = "Hugo Creative Theme"
-theme = "hugo-creative-theme"
-googleAnalytics = ""
+theme = "airspace-hugo"
 
+[menu]
+
+  # [[menu.header]]
+  #   weight = 2
+  #   name = "Work"
+  #   url = "/work"
+  [[menu.header]]
+    weight = 3
+    name = "Blog"
+    url = "/blog"
+  [[menu.header]]
+    weight = 3
+    name = "Poetry"
+    url = "/poetry"
+  # [[menu.header]]
+  #   weight = 4
+  #   name = "Performances"
+  #   url = "/performances"
+  [[menu.header]]
+    weight = 5
+    name = "Skills"
+    url = "/skills"
+  [[menu.header]]
+    weight = 6
+    name = "Contact"
+    url = "/contact"
+
+  [[menu.footer]]
+    weight = 1
+    pre = "fab fa-instagram"
+    name = "Find me on Instagram"
+    url = "https://www.instagram.com/endometri_no_sis/"
+  [[menu.footer]]
+    weight = 1
+    pre = "fa fa-envelope"
+    name = "Send me an email"
+    url = "mailto:katie@kjarman.com"
+  # [[menu.footer]]
+  #   weight = 2
+  #   pre = "fab fa-youtube"
+  #   name = "Youtube"
+  #   url = "#"
+    # [[menu.footer]]
+    # weight = 3
+    # pre = "fab fa-facebook"
+    # name = "Facebook"
+    # url = "#"
+
+
+# The site's parameters
 [params]
 
-	# You can use Markdown syntax for urls [text](//url.to/source) for
-	# most longer texts.
+  # If you want to remove the copyright text you need a Themefisher license.
+  # This license is offered with a 50% discount for all Hugo users.
+  # For information see https://github.com/gohugoio/hugoThemes/issues/260
 
-	# All icons using Fontawesome's icon font. Look at http://fontawesome.io/icons/
-	# for more icons. The icons are represented by their corresponding
-	# CSS class.
+  dateFormat = "6 January 2006"
 
-	# All projects of the portfolio are defined in their own files.
-	# You can find example projects at 'exampleSite/data/projects'. Copy the 'projects'
-	# folder into the 'data' directory at the root of this Hugo site.
-	# For more information take a look at the README.
+  home = "Home"
 
-	# To provide some metadata for search engines feel free to add some
-	# information about you and your website.
-	name = "Katie Jarman"
-	description = "A poet"
+  [params.slider]
+    enable = true
+    title = "A Creative"
+    subtitle = "Passionate about the arts"
 
-	# The path must be relative to the static folder
-	favicon = "favicon.ico"
+  [params.wrapper]
+    enable = true
+    title = "About Me"
+    italic = "If you don't love yourself, how in the hell you gonna love somebody else?"
+    paragraph = ""
 
+  [params.blog]
+    enable = true
+    title = "Get The Latest On What We're doing"
+    subtitle = "Catch up with us, anytime and anywhere"
 
-	# Navigation
-	[params.navigation]
-		brand = "Katie Jarman"
+  [params.feature]
+    enable = true
+    title = "We believe in great ideas"
+    content = "Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus."
+    [params.feature.button]
+      caption = "Get in touch"
+      url = "mailto:katie@kjarman.com"
 
-		[params.navigation.links]
-			about     = "About"
-			services  = "Services"
-			portfolio = "Portfolio"
-			contact   = "Contact"
+  [params.call]
+    enable = true
+    title = "A creative and a poet"
+    paragraph = "I'm excited to work with you on your next project"
 
-
-	# Hero section
-	[params.hero]
-		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
-		slogan     = "Katie Jarman"
-		subtitle   = "[Lorem](//google.com) ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis nesciunt consequatur ut nihil voluptatem fugiat eos eveniet alias in veniam?"
-		buttonText = "Find out more"
-
-
-	# About section
-	[params.about]
-		headline    = "We've got what you need!"
-		description = "[Lorem](//google.com) ipsum dolor sit amet, consectetur adipisicing elit. Praesentium similique eos eligendi error veritatis harum, sed aliquid totam, quam minus neque enim est architecto, ad. Maiores, aliquid, vitae!"
-		buttonText  = "Get started!"
-
-
-	# Service section
-	[params.services]
-		headline = "A Creative"
-
-        [[params.services.list]]
-            icon = "fa-music"
-            title = "Poetry"
-            description = "Words that will melt your heart"
-
-        [[params.services.list]]
-			icon = "fa-theater-masks"
-			title = "Theatre"
-			description = "I'm not just big on musical theatre!"
-
-		[[params.services.list]]
-            icon = "fa-laugh"
-            title = "Humour"
-            description = "You'll literally die laughing"
-
-        [[params.services.list]]
-            icon = "fa-heart"
-            title = "Love"
-            description = "Damn good lovin'!"
+  [params.contact]
+    enable = false
+    title = "Drop us a note"
+    subtitle = "Don’t just take our word for it. Check out some of our latest work."
+    # [params.contact.form]
+    #   name = "Your name"
+    #   email = "Your email"
+    #   subject = "Your subject"
+    #   message = "Your message"
+    #   button = "Send message"
+    [params.contact.box]
+      title = "Get in touch"
+      #address = "North Main Street, Brooklyn Australia"
+      email = "mailto:katie@kjarman.com"
+      instagram = "https://www.instagram.com/endometri_no_sis/"
+      #phone = "Phone: +88 01672 506 744"
 
 
-    # Portfolio modals
-	[params.portfolio.modal]
-        client = "Client"
-        date = "Date"
-        category = "Category"
-        buttonText = "Close"
-
-    # Aside section
-	[params.aside]
-		headline = "Get the Creative Theme for Hugo"
-
-		[params.aside.button]
-			text = "Download now"
-			link = "//github.com/digitalcraftsman/hugo-creative-theme"
-
-	# Contact section
-	[params.contact]
-		headline = "Let's Get In Touch!"
-		description = "Ready to start your next project with us? That's great! Give us a call or send us an email and we will get back to you as soon as possible!"
-		phone = "123-456-6789"
-		email = "feedback@startbootstrap.com"
-
-	# Google Maps section
-	# [params.location]
-	# 	latitude  = "34.007850"
-	# 	longitude = "-118.499305"
-	# 	maps_api_key = ""
+    [params.contact.gmaps]
+      #title = "We Also Count in Google Maps"

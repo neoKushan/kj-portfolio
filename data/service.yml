@@ -1,0 +1,45 @@
+enable: true
+title: Skills
+subtitle: >
+  Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics
+content:
+
+  - icon: fas fa-heart
+    name: Love
+    text: >
+      Damn good lovin'
+
+  - icon: fas fa-grin-tongue-squint
+    name: Humour
+    text: >
+      Laughter matters
+
+  - icon: fas fa-theater-masks
+    name: Theatre
+    text: >
+      Both serious and witty
+
+  - icon: fas fa-film
+    name: Videos
+    text: >
+      Films and video performances
+
+  - icon: fas fa-calendar-alt
+    name: Organisation
+    text: >
+      Organised and dependable
+
+  - icon: fas fa-gifts
+    name: Charity
+    text: >
+      Giving is important to me
+
+  - icon: fas fa-scroll
+    name: Poetry
+    text: >
+      Words to melt your heart
+
+  - icon: fas fa-book-open
+    name: Readings
+    text: >
+      Let me take you on a journey

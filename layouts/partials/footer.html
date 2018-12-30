@@ -7,9 +7,8 @@
           <ul>
             {{ range .Site.Menus.footer }}
             <li>
-				<i class="{{ .Pre }}"></i>
-				<a href="{{ .URL }}">{{ .Name }}</a>
-			</li>
+               <i class="{{ .Pre }}"> <a href="{{ .URL }}">{{ .Name }}</a> </i>
+            </li>
             {{ end }}
           </ul>
         </div>

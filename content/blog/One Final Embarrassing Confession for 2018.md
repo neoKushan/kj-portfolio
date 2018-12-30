@@ -30,8 +30,4 @@ Be Kind - not just to other people but, most importantly to myself. I have alway
 
 This is something I have yet to tell anyone but I've recently made the decision to find a decent therapist and go back to having regular counselling. Making sure I am the best and most well person I can be is an ongoing process. I don't think it is possible to ever just be ok or done with growing. I don't know if I want to be part of a world where I can't grow or learn new things. Having a chronic illness is hard and something I am still not accustomed to, even as I reach a decade since my diagnosis. The world feels mean and the grief around and within me is unbearable, so I just don't think about it. Every year feels like a rollercoaster of good and bad. But I can safely say that as of now this year has been truly personally amazing. I am so grateful for the people I have met, whether or not they are still with me. I am grateful for the friends and family who have stood beside me and made my life worthwhile. I am even grateful for the absolute cunts I've met this year and previously who've taught me important lessons not just in how to value people but also in who I want to be. I can't wait for 2019 because I know I've got this.
 
-
-
-This is a test.
-
 And if you're reading this and you're not at that place of healing, please please keep going. It sucks. Healing is the hardest thing you will ever do. The version of you right now might die. It is necessarily for the best version of you to exist. I am so proud of you. Happy new year 💛

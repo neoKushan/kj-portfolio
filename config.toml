@@ -85,7 +85,7 @@ theme = "airspace-hugo"
     content = ""
     [params.feature.button]
       caption = "Get in touch"
-      url = "mailto:katie@kjarman.com"
+      url = "/contact/"
 
   [params.call]
     enable = true

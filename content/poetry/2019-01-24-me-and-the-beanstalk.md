@@ -9,9 +9,7 @@ categories:
 ---
 ![](/img/blog/whatsapp-image-2019-01-15-at-08.33.30.jpeg)
 
-When I found this post from two years ago I suddenly realised this had been the catalyst from on of the bravest things I ever did and so I had to write about it.
-
-
+When I found this post from two years ago I suddenly realised this had been the catalyst for one of the bravest things I ever did and so I had to write about it.
 
 He said fight this like its someone else's problem
 

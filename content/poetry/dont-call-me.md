@@ -8,12 +8,6 @@ categories:
   - poetry
   - identity
 ---
-When I was 11, I overheard two of my primary school teachers call me a "precocious little shit". 
-
-This is a poem about that.
-
-
-
 > Don’t call me precocious\
 > Or suggest I have grown too big for these boots\
 > We both know these boots weren't meant for feet that want to grow\

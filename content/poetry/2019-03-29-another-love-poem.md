@@ -7,6 +7,14 @@ tags:
 categories:
   - ''
 ---
+If you write poems at 3 o'clock in the morning they're going to be cheesy...
+
+
+
+<!--more-->
+
+
+
 I am lying there
 
 In a sticky, sweaty pool of someone else's played out sexual desires
@@ -58,8 +66,6 @@ They were never favourable
 And when I didn't really feel it nothing seemed more painful 
 
 Than saying words I might have to take back one day
-
-
 
 And then one day
 

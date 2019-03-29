@@ -8,6 +8,14 @@ categories:
   - poetry
   - identity
 ---
+> I overheard two teachers calling me a precocious little shit when I was 11 and I know how to hold grudges
+>
+>
+>
+> <!--more-->
+>
+>
+>
 > Don’t call me precocious\
 > Or suggest I have grown too big for these boots\
 > We both know these boots weren't meant for feet that want to grow\

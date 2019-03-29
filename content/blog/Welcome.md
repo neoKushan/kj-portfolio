@@ -7,3 +7,5 @@ categories = ["first"]
 +++
 
 Welcome to my site!
+
+{{< youtube id="w7Ft2ymGmfc" autoplay="true" >}}

@@ -7,9 +7,7 @@ tags:
 categories:
   - ''
 ---
-![](/img/blog/whatsapp-image-2019-01-15-at-08.33.30.jpeg)
-
-When I found this post from two years ago I suddenly realised this had been the catalyst for one of the bravest things I ever did and so I had to write about it.
+I found a post from two years ago (thanks Facebook memories) about a documentary I watched where the doctor said "fight this like it's someone else's problem. I realised this had been the catalyst for one of the bravest things I ever did and so I had to write about it.
 
 
 

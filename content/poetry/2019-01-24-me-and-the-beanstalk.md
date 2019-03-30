@@ -9,11 +9,9 @@ categories:
 ---
 I found a post from two years ago (thanks Facebook memories) about a documentary I watched where the doctor said "fight this like it's someone else's problem. I realised this had been the catalyst for one of the bravest things I ever did and so I had to write about it.
 
-
-
 <!--more-->
 
-
+{{< soundcloud 826962708 >}}
 
 He said fight this like its someone else's problem
 

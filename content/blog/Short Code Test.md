@@ -1,10 +1,12 @@
-+++
-title = "Short Code Tests"
-date = "2019-03-27T22:50:46+00:00"
-author = "Katie"
-tags = ["blog"]
-categories = ["first"]
-+++
+---
+title: Short Code Tests
+author: Katie
+date: 2040-02-14T22:50:46.000Z
+tags:
+  - blog
+categories:
+  - first
+---
 
 Delete me when you're done! OR Set the "publish" date FAR into the future to keep it handy as a reference - it won't appear on the site unless the date is in the past.
 

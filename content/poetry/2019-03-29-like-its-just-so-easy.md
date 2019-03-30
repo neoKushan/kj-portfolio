@@ -9,11 +9,9 @@ categories:
 ---
 If you piss me off or make me love you I'm writing a poem about it so be nice but not too nice.
 
-
-
 <!--more-->
 
-
+{{< soundcloud 598491720 >}}
 
 I am 17
 

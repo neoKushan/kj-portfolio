@@ -17,10 +17,10 @@ theme = "airspace-hugo"
     weight = 3
     name = "Poetry"
     url = "/poetry"
-  # [[menu.header]]
-  #   weight = 4
-  #   name = "Performances"
-  #   url = "/performances"
+  [[menu.header]]
+    weight = 4
+    name = "Performances"
+    url = "/performances"
   # [[menu.header]]
   #   weight = 5
   #   name = "Skills"

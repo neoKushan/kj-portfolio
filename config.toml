@@ -34,7 +34,7 @@ theme = "airspace-hugo"
     weight = 1
     pre = "fab fa-instagram"
     name = "Find me on Instagram"
-    url = "https://www.instagram.com/endometri_no_sis/"
+    url = "https://www.instagram.com/poorly_poet/"
   [[menu.footer]]
     weight = 1
     pre = "fa fa-envelope"
@@ -107,7 +107,7 @@ theme = "airspace-hugo"
       title = "Get in touch"
       #address = "North Main Street, Brooklyn Australia"
       email = "mailto:katie@kjarman.com"
-      instagram = "https://www.instagram.com/endometri_no_sis/"
+      instagram = "https://www.instagram.com/poorly_poet/"
       #phone = "Phone: +88 01672 506 744"
 
 

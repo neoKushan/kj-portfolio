@@ -65,8 +65,8 @@ theme = "airspace-hugo"
 
   [params.slider]
     enable = true
-    title = "A Creative"
-    subtitle = "Passionate about the arts"
+    title = "Poorly Poet"
+    subtitle = "The official website"
 
   [params.wrapper]
     enable = true

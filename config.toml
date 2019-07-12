@@ -70,9 +70,10 @@ theme = "airspace-hugo"
 
   [params.wrapper]
     enable = true
-    title = "About Me"
-    italic = "If you don't love yourself, how in the hell you gonna love somebody else?"
-    paragraph = "Pansexual. Poetic. Fat. Femme."
+    title = "Who am I?"
+    #italic = "sdsds"
+    paragraph = "Chronically ill feminist trying to make sense of the world through poetry."
+
 
   [params.blog]
     enable = true
